@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:id="@+id/grp1" android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_inicio"
+            android:icon="@drawable/ic_menu_olx"
+            android:title="Inicio" />
+        <item
+            android:id="@+id/nav_camara"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Publica un anuncion" />
+        <item
+            android:id="@+id/nav_perfil"
+            android:icon="@drawable/ic_menu_perfil"
+            android:title="Mi Perfil" />
+        <item
+            android:id="@+id/nav_categoria"
+            android:icon="@drawable/ic_menu_categoria"
+            android:title="Categorías" />
+        <item
+            android:id="@+id/nav_monedero"
+            android:icon="@drawable/ic_menu_monedero"
+            android:title="Monedero" />
+        <item
+            android:id="@+id/nav_anuncio"
+            android:icon="@drawable/ic_menu_anuncio"
+            android:title="Mis Anuncios" />
+        <item
+            android:id="@+id/nav_mensaje"
+            android:icon="@drawable/ic_menu_mensajes"
+            android:title="Mis Mensajes" />
+        <item
+            android:id="@+id/nav_favorito"
+            android:icon="@drawable/ic_menu_favorito"
+            android:title="Mis Favoritos" />
+        <item
+            android:id="@+id/nav_busqueda_guardada"
+            android:icon="@drawable/ic_menu_busqueda_guarda"
+            android:title="Búsquedas Guardadas" />
+    </group>
+    <group android:id="@+id/grp2" android:checkableBehavior="none">
+        <item
+            android:id="@+id/nav_ayuda"
+            android:icon="@drawable/ic_menu_ayuda"
+            android:title="Ayuda" />
+        <item
+            android:id="@+id/nav_ajustes"
+            android:icon="@drawable/ic_menu_ajustes"
+            android:title="Ajustes" />
+    </group>
+
+</menu>

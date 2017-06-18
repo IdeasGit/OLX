@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <EditText
+        android:id="@+id/et_descripcion"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Título de tu anuncio"/>
+    <EditText
+        android:id="@+id/et_valor"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Indica cuanto cuesta" />
+
+    <!--
+    <EditText
+        android:id="@+id/et_imgagenProd"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Imagen Producto" />
+
+    <EditText
+        android:id="@+id/et_nombrContacto"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Nombre Contacto" />
+    <EditText
+        android:id="@+id/et_celular"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Celular" />
+    <EditText
+        android:id="@+id/et_direccion"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Direccion" />
+    <EditText
+        android:id="@+id/et_correo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Correo" />
+    <EditText
+        android:id="@+id/et_fotoperfil"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Foto Perfil" />-->
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center_horizontal">
+    <Button
+        android:id="@+id/btnsubir"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:background= "@drawable/ic_galeria"/>
+
+    </LinearLayout>
+    <com.github.snowdream.android.widget.SmartImageView
+        android:id="@+id/imgFoto"
+        android:layout_width="match_parent"
+        android:layout_height="200dp" />
+
+
+    <Button
+        android:id="@+id/btnenvia"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Publicar Anuncio" />
+</LinearLayout>

@@ -1,0 +1,95 @@
+<resources>
+    <string name="app_name">OLX</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="nombre_categoria">Categoria</string>
+    <string name="strfecha1">25 Mayo</string>
+    <string name="strfecha2">22 Mayo</string>
+    <string name="strfecha3">15 Mayo</string>
+    <string name="strfecha4">10 Mayo</string>
+    <string name="strfecha5">29 Abril</string>
+
+    <string name="strauto1">Optra 1,6 Mecanico</string>
+    <string name="strauto2">Hyundai Grand i10</string>
+    <string name="strauto3">Chevrolet Sail</string>
+    <string name="strauto4">Toyota FJ</string>
+    <string name="strauto5">Nissan X-Trail</string>
+
+    <string name="strautoval1">$28.000.000</string>
+    <string name="strautoval2">$18.000.000</string>
+    <string name="strautoval3">$48.000.000</string>
+    <string name="strautoval4">$58.000.000</string>
+    <string name="strautoval5">$38.000.000</string>
+
+
+    <string name="strtv1">Tv Olg de 21</string>
+    <string name="strtv2">Tv Huskee de 14</string>
+    <string name="strtv3">Tv Panasonic de 29</string>
+    <string name="strtv4">Tv Led de 40</string>
+    <string name="strtv5">Tv Smart 55pul 3d</string>
+
+    <string name="strtvval1">$100.000</string>
+    <string name="strtvval2">$60.000</string>
+    <string name="strtvval3">$120.000</string>
+    <string name="strtvval4">$900.000</string>
+    <string name="strtvval5">$1.900.000</string>
+
+    <string name="strpc1">Computador 15</string>
+    <string name="strpc2">Procesador Core i5</string>
+    <string name="strpc3">Board Intel DDR3</string>
+    <string name="strpc4">Teclado Smart TV</string>
+    <string name="strpc5">Impresora Canon</string>
+
+    <string name="strpcval1">$320.000</string>
+    <string name="strpcval2">$550.000</string>
+    <string name="strpcval3">$120.000</string>
+    <string name="strpcval4">$45.000</string>
+    <string name="strpcval5">$120.000</string>
+
+
+    <string name="strcasa1">Casa Cali 120 m2</string>
+    <string name="strcasa2">Apartamento Barranquilla</string>
+    <string name="strcasa3">Casa Medellin 82 m2</string>
+    <string name="strcasa4">Apartamento Bello 50 m2</string>
+    <string name="strcasa5">Bodega Itagui 400 m2</string>
+
+    <string name="strcasaval1">$220.000.000</string>
+    <string name="strcasaval2">$120.000.000</string>
+    <string name="strcasaval3">$320.000.000</string>
+    <string name="strcasaval4">$90.000.000</string>
+    <string name="strcasaval5">$920.000.000</string>
+
+
+    <string name="strcel1">iPhone 6</string>
+    <string name="strcel2">Cargador Carga Rapida</string>
+    <string name="strcel3">Samsung S5</string>
+    <string name="strcel4">Huawei P8</string>
+    <string name="strcel5">Samsung GTS5282</string>
+
+    <string name="strcelval1">$79.000</string>
+    <string name="strcelval2">$45.000</string>
+    <string name="strcelval3">$300.000</string>
+    <string name="strcelval4">$420.000</string>
+    <string name="strcelval5">$70.000</string>
+
+
+    <string name="strgame1">Nintendo Switch Gris</string>
+    <string name="strgame2">Xbox One Blanco</string>
+    <string name="strgame3">Nintendo 3DS</string>
+    <string name="strgame4">Diadema Gamer 7.1</string>
+    <string name="strgame5">Audifonos para Xbox</string>
+
+    <string name="strgameval1">$975.000</string>
+    <string name="strgameval2">$1.250.000</string>
+    <string name="strgameval3">$185.000</string>
+    <string name="strgameval4">$99.900</string>
+    <string name="strgameval5">$50.000</string>
+
+    <string name="strnom">Nombre: Contacto</string>
+    <string name="strtel">Telefono: 3723876</string>
+    <string name="stremail">correo@dominio.com</string>
+    <string name="strdir">Cr44 Nro 55 20</string>
+</resources>
