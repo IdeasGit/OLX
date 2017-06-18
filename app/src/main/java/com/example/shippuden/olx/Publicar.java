@@ -69,7 +69,7 @@ public class Publicar extends AppCompatActivity {
         //Estos datos se deben obtener de los datos de autenticacion
         e_nombreContacto="Nombre Contacto";
         e_celular="3113225422";
-        e_direccion="DireccionABCD";
+        e_direccion="DireccionABC";
         e_correo="correo@123.com";
         e_fotoPerfil="https://imagenesprueba.000webhostapp.com/imgolx/imgperfil.png";
         btn_enviar=(Button) findViewById(R.id.btnenvia);
@@ -91,7 +91,6 @@ public class Publicar extends AppCompatActivity {
         });
     }
 
-    
     @Override
     protected void onActivityResult(int requestCode, int resultCode, Intent data) {
         super.onActivityResult(requestCode, resultCode, data);
